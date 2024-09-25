@@ -1,0 +1,6 @@
+[submodule "portifolio"]
+	path = portifolio
+	url = https://github.com/alfatektecnologia/dio-lab-portfolio
+[submodule "dotnet"]
+	path = dotnet
+	url = https://github.com/alfatektecnologia/trilha-net-explorando-desafio
