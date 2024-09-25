@@ -15,4 +15,7 @@ Etapas do desafio:
   - simular "batalhas" entre os pokemons
   - transferir NFT´s entre contas
 
+    ![image](https://github.com/user-attachments/assets/2f19d8de-74bf-4406-bc35-842bd7b50de8)
+
+
 
