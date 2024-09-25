@@ -17,5 +17,5 @@ Etapas do desafio:
 
     ![image](https://github.com/user-attachments/assets/2f19d8de-74bf-4406-bc35-842bd7b50de8)
 
-
-
+O código está no seguinte repositório:
+  - https://github.com/alfatektecnologia/NFT_Pokemon
